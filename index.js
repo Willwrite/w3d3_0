@@ -15,7 +15,7 @@ const checkMyArr = () => {
     checkMyArr();
 
     console.log(thereIsTesla);
-    return thereIsTesla//
+    return thereIsTesla
 }
 
 //Be able to call this from outside of the fucntion
@@ -27,6 +27,6 @@ const checkMyArr = () => {
 
 //}
 
-Can you call it outside of the function name(params) {
+//Can you call it outside of the function name(params) {
     
-}
+// }
